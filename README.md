@@ -1,2 +1,2 @@
 # effective-potato
-First repository 
+This repository was created during a course on PUT
